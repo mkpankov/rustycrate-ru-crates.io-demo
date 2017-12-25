@@ -2,5 +2,7 @@
 name = "rustycrate-ru"
 version = "0.1.0"
 authors = ["Michael Pankov <work@michaelpankov.com>"]
+description = "Демо-библиотека для статьи о публикации пакетов на rustycrate.ru"
+license = "BSD-3-Clause"
 
 [dependencies]
