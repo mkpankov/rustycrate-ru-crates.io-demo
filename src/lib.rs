@@ -1,4 +1,4 @@
-fn hello() {
+pub fn hello() {
     println!("Привет от rustycrate.ru!");
 }
 
