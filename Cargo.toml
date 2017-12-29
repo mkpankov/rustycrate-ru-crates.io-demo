@@ -1,6 +1,6 @@
 [package]
 name = "rustycrate-ru"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Michael Pankov <work@michaelpankov.com>"]
 description = "Демо-библиотека для статьи о публикации пакетов на rustycrate.ru"
 license = "BSD-3-Clause"
